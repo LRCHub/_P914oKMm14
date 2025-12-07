@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "キラーボール",
+  "base_artist": "ゲスの極み乙女。",
+  "createdAt": "2025-12-07T04:23:15.969653Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キラーボール",
+      "artist": "gesunokiwamiotome",
+      "has_synced": false,
+      "path": "select/01_キラーボール_gesunokiwamiotome.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キラーボール",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": true,
+      "path": "select/02_キラーボール_ゲスの極み乙女。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キラーボール (2022 Remaster)",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": true,
+      "path": "select/03_キラーボール_(2022_Remaster)_ゲスの極み乙女。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キラーボール - 2022 Remaster",
+      "artist": "Gesu No Kiwami Otome",
+      "has_synced": true,
+      "path": "select/04_キラーボール_-_2022_Remaster_Gesu_No_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キラーボール",
+      "artist": "ゲスの極み乙女",
+      "has_synced": false,
+      "path": "select/05_キラーボール_ゲスの極み乙女.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キラーボール - Killer Ball",
+      "artist": "gesunokiwami otome",
+      "has_synced": true,
+      "path": "select/06_キラーボール_-_Killer_Ball_gesunokiwami_otome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キラーボール",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_キラーボール_ゲスの極み乙女。.txt"
+    }
+  ]
+}
